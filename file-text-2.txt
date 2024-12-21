@@ -1,2 +1,4 @@
 add a new file text 1 master
 add a new file text 2 master
+add a new file text 3
+add a new file text 4
