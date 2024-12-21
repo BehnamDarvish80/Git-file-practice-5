@@ -1,1 +1,3 @@
 add a new file text 1
+add a new file text 2
+add a new file text 3
